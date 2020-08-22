@@ -1,0 +1,77 @@
+{
+  "_from": "hexo-offline-popup",
+  "_id": "hexo-offline-popup@1.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-Lhv0vAXffJVwqMObyK+EjW4lfsjmzj+sVnCJc/pssmj9W+O+Mal57bgLV5dLuAV82u/57TQ4BtvdpLOTtkH99Q==",
+  "_location": "/hexo-offline-popup",
+  "_phantomChildren": {
+    "fs.realpath": "1.0.0",
+    "inflight": "1.0.6",
+    "inherits": "2.0.4",
+    "minimatch": "3.0.4",
+    "once": "1.4.0",
+    "path-is-absolute": "1.0.1"
+  },
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "hexo-offline-popup",
+    "name": "hexo-offline-popup",
+    "escapedName": "hexo-offline-popup",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/hexo-offline-popup/-/hexo-offline-popup-1.0.3.tgz",
+  "_shasum": "4a1d7e3e7280001c710315dcc65db753233ed81f",
+  "_spec": "hexo-offline-popup",
+  "_where": "D:\\qinhao\\hexo",
+  "author": {
+    "name": "colsrch"
+  },
+  "bugs": {
+    "url": "https://github.com/Colsrch/hexo-offline-popup/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-plugin-istanbul": "^6.0.0",
+    "babel-preset-babili": "^0.1.4",
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0",
+    "cross-env": "^7.0.2",
+    "fecs": "^1.6.4",
+    "fs-extra": "^9.0.1",
+    "nyc": "^15.1.0",
+    "pre-commit": "^1.2.2",
+    "rimraf": "^3.0.2",
+    "sw-precache": "^5.2.1",
+    "tap": "^14.10.7"
+  },
+  "deprecated": false,
+  "description": "实现加速Hexo网站的加载速度、网站内容更新弹窗提示",
+  "devDependencies": {},
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "homepage": "https://github.com/Colsrch/hexo-offline-popup#readme",
+  "keywords": [
+    "hexo-offline-popup"
+  ],
+  "license": "ISC",
+  "main": "lib/index.js",
+  "name": "hexo-offline-popup",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Colsrch/hexo-offline-popup.git"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "version": "1.0.3"
+}

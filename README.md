@@ -1,2 +1,0 @@
-# cdnforblog
-cdn for blog
