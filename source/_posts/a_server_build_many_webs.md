@@ -6,9 +6,6 @@ author:
 	url: https://www.zhengyuanyuan520.com
 categories: 服务器
 date: 2020-02-15 16:45:30
-music:
-  type: song  
-  id: 1382596189
 comments: true
 tags:  
 	- 软考

@@ -6,9 +6,6 @@ author:
 	url: https://www.zhengyuanyuan520.com
 categories: 通信技术
 date: 2020-05-12 14:11:21
-music:
-	type: song
-	id: 1436709403
 comments: true
 tags:  
 	- 通信技术

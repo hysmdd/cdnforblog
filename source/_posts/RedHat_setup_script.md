@@ -6,9 +6,6 @@ author:
 	url: https://www.zhengyuanyuan520.com
 categories: Linux
 date: 2020-02-14 20:13:14
-music:
-  type: song  
-  id: 208902
 comments: true
 tags: 系统安装
 keywords: Linux安装

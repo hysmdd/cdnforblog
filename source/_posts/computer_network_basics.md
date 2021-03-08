@@ -6,9 +6,6 @@ author:
 	url: https://www.zhengyuanyuan520.com
 categories: 计算机网络
 date: 2020-02-27 13:14:20
-music:
-  type: song  
-  id: 1410666632
 comments: true
 tags:  
 	- 基础网络

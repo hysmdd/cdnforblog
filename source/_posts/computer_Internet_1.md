@@ -7,9 +7,6 @@ author:
 categories: 计算机网络
 mathjax: true
 date: 2020-07-17 18:25:00
-music:
-	type: song
-	id: 493735012
 comments: true
 ---
 

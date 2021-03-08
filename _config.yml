@@ -15,7 +15,7 @@ baidu_push: true
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://www.imqinhao.cn
+url: https://imqinhao.cn
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -134,11 +134,3 @@ feed:
   type: atom
   path: atom.xml
   limit: 20
-
-# offline config passed to sw-precache.
-service_worker:
-  maximumFileSizeToCacheInBytes: 5242880
-  staticFileGlobs:
-  - public/**/*.{js,html,css,png,jpg,gif,svg,eot,ttf,woff,woff2}
-  stripPrefix: public
-  verbose: true

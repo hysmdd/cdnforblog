@@ -6,9 +6,6 @@ author:
 	url: https://www.zhengyuanyuan520.com
 categories: 小技巧
 date: 2020-05-19 22:25:11
-music:
-  type: song  
-  id: 1387581250
 comments: true
 ---
 

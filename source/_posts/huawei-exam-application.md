@@ -6,9 +6,6 @@ author:
 	url: https://www.zhengyuanyuan520.com
 categories: 华为认证
 date: 2020-05-29 20:13:14
-music:
-	type: song
-	id: 1351520305
 comments: true
 ---
 

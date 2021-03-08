@@ -6,9 +6,6 @@ author:
 	url: https://www.zhengyuanyuan520.com
 categories: 数据库
 date: 2020-02-27 12:50:11
-music:
-  type: song  
-  id: 1407551413
 comments: true
 tags:  
 	- 数据库

@@ -6,9 +6,6 @@ author:
 	url: https://www.zhengyuanyuan520.com
 categories: Photoshop
 date: 2020-03-29 14:37:11
-music:
-  type: song  
-  id: 1398663411
 comments: true
 tags:  
 	- 图像处理

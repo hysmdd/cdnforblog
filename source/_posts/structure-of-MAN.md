@@ -6,9 +6,6 @@ author:
 	url: https://www.zhengyuanyuan520.com
 categories: 计算机三级
 date: 2020-04-13 09:46:11
-music:
-  type: song  
-  id: 550138197
 comments: true
 tags:  
 	- 网络技术

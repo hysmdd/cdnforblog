@@ -6,11 +6,6 @@ author:
 	url: https://www.zhengyuanyuan520.com
 categories: 通信技术
 date: 2020-04-09 11:25:00
-music:
-	enable: true
-	server: netease
-	type: song
-	id: 1374329431
 comments: true
 tags:  
 	- 通信技术

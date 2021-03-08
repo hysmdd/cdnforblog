@@ -6,9 +6,6 @@ author:
 	url: https://www.zhengyuanyuan520.com
 categories: Linux
 date: 2020-03-31 13:04:14
-music:
-  type: song  
-  id: 298213
 comments: true
 ---
 

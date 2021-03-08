@@ -6,9 +6,6 @@ author:
 	url: https://www.zhengyuanyuan520.com
 categories: Python
 date: 2020-06-01 13:14:20
-music:
-  type: song  
-  id: 1351520305
 comments: true
 ---
 
